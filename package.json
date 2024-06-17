@@ -1,0 +1,27 @@
+{
+  "name": "ticketsales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "autoprefixer": "^10.4.19",
+    "hardhat": "^2.22.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.6",
+    "ethers": "^6.13.0",
+    "next": "^14.2.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
