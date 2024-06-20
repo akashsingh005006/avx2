@@ -70,4 +70,4 @@ npx hardhat ignition deploy ./ignition/modules/TicketSales.js --network localhos
 Now you can donate money to the projects using your account.
 
 ## Contributors
-Crafter Om Satapathy - [LinkedIn @LovishGarg]()
+Crafter Om Satapathy - [LinkedIn @LovishGarg](https://www.linkedin.com/in/lovish-garg-480b37249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
