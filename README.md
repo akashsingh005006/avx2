@@ -3,7 +3,7 @@
 TicketSales is a decentralized application (DApp) built for ticket selling projects. It leverages the Hardhat development environment to simulate a blockchain and uses Next.js for the frontend.
 
 ## Video Demo
-[Video Tutorial on Loom](https://www.loom.com/share/63b011ebff67456d833dd0485307b9dd)
+[Video Tutorial on Loom](https://www.loom.com/share/68ba5bcf5dc34e8ab41f3433cbd85d8e)
 
 ## Prerequisites
 -Node.js (v14 or higher) - [Download Node.js](https://nodejs.org/en)
