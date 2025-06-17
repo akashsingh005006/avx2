@@ -40,26 +40,31 @@ http://localhost:8000/index.php
 ---
 
 ## 📁 Project Structure
-├── index.php # Main frontend and form logic
-├── functions.php # Backend PHP functions (send email, register, unsubscribe, etc.)
-├── style.css # CSS styles
-├── cron.php # CRON logic to fetch GitHub updates
-├── src/setup_cron.sh # Shell script to set up CRON job
-└── README.md # Project instructions
+graphql
+Copy
+Edit
+├── index.php           # Main frontend and form logic  
+├── functions.php       # Backend PHP functions (send email, register, unsubscribe, etc.)  
+├── style.css           # CSS styles  
+├── cron.php            # CRON logic to fetch GitHub updates  
+├── src/
+│   └── setup_cron.sh   # Shell script to set up CRON job  
+└── README.md           # Project instructions
 
 
 # How to Run Locally
 1. Open terminal and go to the project directory:
 
-```cd github-timeline-akashsingh005006-main```
+  ```cd github-timeline-akashsingh005006-main```
 
 2. Move into the src directory if needed:
-```cd src```
+   
+   ```cd src```
 
-3. Start the local PHP server:
+4. Start the local PHP server:
 
-```php -S localhost:8000```
+   ```php -S localhost:8000```
 
 4. Visit the application in your browser:
 
-```http://localhost:8000/index.php```
+   ```http://localhost:8000/index.php```
