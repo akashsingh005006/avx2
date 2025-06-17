@@ -40,9 +40,7 @@ http://localhost:8000/index.php
 ---
 
 ## 📁 Project Structure
-graphql
-Copy
-Edit
+
 ├── index.php           # Main frontend and form logic  
 ├── functions.php       # Backend PHP functions (send email, register, unsubscribe, etc.)  
 ├── style.css           # CSS styles  
