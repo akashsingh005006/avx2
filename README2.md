@@ -1,4 +1,3 @@
-
 # 📧 Email Verification System (PHP Project)
 
 This project allows users to **register** or **unsubscribe** using their email address with OTP-based verification. When an email is submitted, a 6-digit OTP is sent, which must be verified before registration or unsubscription is completed.
@@ -38,7 +37,6 @@ Open your browser and visit:
 http://localhost:8000/index.php
 
 ---
-
 ## 📁 Project Structure
 
 ```
@@ -50,7 +48,6 @@ http://localhost:8000/index.php
 │   └── setup_cron.sh  # Shell script to set up CRON job
 └── README.md          # Project instructions
 ```
-
 
 # How to Run Locally
 1. Open terminal and go to the project directory:
