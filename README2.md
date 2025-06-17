@@ -43,7 +43,8 @@ http://localhost:8000/index.php
 <pre lang="markdown">
 ``` ├── index.php # Main frontend and form logic 
     ├── functions.php # Backend PHP functions (send email, register, unsubscribe, etc.) 
-    ├── style.css # CSS styles ├── cron.php # CRON logic to fetch GitHub updates 
+    ├── style.css # CSS styles
+    ├── cron.php # CRON logic to fetch GitHub updates 
     ├── src/ │ └── setup_cron.sh # Shell script to set up CRON job 
     └── README.md # Project instructions ``` </pre>
 
