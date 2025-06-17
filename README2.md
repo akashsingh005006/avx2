@@ -40,13 +40,17 @@ http://localhost:8000/index.php
 ---
 
 ## 📁 Project Structure
-<pre lang="markdown">
-``` ├── index.php # Main frontend and form logic 
-    ├── functions.php # Backend PHP functions (send email, register, unsubscribe, etc.) 
-    ├── style.css # CSS styles
-    ├── cron.php # CRON logic to fetch GitHub updates 
-    ├── src/ │ └── setup_cron.sh # Shell script to set up CRON job 
-    └── README.md # Project instructions ``` </pre>
+
+```
+├── index.php          # Main frontend and form logic
+├── functions.php      # Backend PHP functions (send email, register, unsubscribe, etc.)
+├── style.css          # CSS styles
+├── cron.php           # CRON logic to fetch GitHub updates
+├── src/
+│   └── setup_cron.sh  # Shell script to set up CRON job
+└── README.md          # Project instructions
+```
+
 
 # How to Run Locally
 1. Open terminal and go to the project directory:
