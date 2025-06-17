@@ -41,7 +41,7 @@ http://localhost:8000/index.php
 
 ## 📁 Project Structure
 
-├── index.php                 # Main frontend and form logic  
+├── index.php               # Main frontend and form logic  
 ├── functions.php             # Backend PHP functions (send email, register, unsubscribe, etc.)  
 ├── style.css                 # CSS styles  
 ├── cron.php                  # CRON logic to fetch GitHub updates  
